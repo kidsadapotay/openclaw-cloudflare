@@ -1,0 +1,10 @@
+name = "openclaw"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[ai]
+binding = "AI"
+
+# Secrets (set via `wrangler secret put`):
+# - GITHUB_TOKEN: Personal Access Token with repo scope
+# - GITHUB_WEBHOOK_SECRET: Secret to verify webhook signature

@@ -1,0 +1,23 @@
+node_modules/
+.npm-cache/
+dist/
+.wrangler/
+.dev.vars
+package-lock.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test
+coverage/

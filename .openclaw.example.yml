@@ -1,0 +1,40 @@
+# OpenClaw Configuration Example
+# Copy this to .openclaw.yml in your repository root
+
+version: 1
+
+# Review aspects (all enabled by default)
+review:
+  security: true        # SQL injection, XSS, secrets, OWASP
+  quality: true         # Code style, best practices, bugs
+  refactor: true        # Improvement suggestions
+  tests: true           # Test coverage suggestions
+
+# Files/patterns to ignore
+ignore:
+  - "*.lock"
+  - "*.min.js"
+  - "*.min.css"
+  - "dist/**"
+  - "build/**"
+  - "node_modules/**"
+  - "vendor/**"
+  - "**/*.generated.*"
+  - "package-lock.json"
+  - "yarn.lock"
+  - "pnpm-lock.yaml"
+
+# Size limits to avoid timeout
+limits:
+  max_files: 20              # Skip PR if > 20 files changed
+  max_lines_per_file: 500    # Skip files > 500 lines changed
+  max_total_lines: 2000      # Skip PR if > 2000 total lines
+
+# Languages to review (leave empty for auto-detect)
+languages: []
+  # - javascript
+  # - typescript
+  # - python
+
+# Review verbosity: minimal | normal | detailed
+verbosity: normal
